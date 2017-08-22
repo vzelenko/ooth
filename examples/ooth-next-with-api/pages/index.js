@@ -7,7 +7,7 @@ import Link from 'next/link'
 export default withOothNext(() => {
   return <div>
     <Link href="/other"><a>other</a></Link>
-    <h1>Welcome to Ooth's Next.js example</h1>
+    <h1>Welcome to Ooth''s Next.js example</h1>
     <LoginStatus/>    
   </div>
 })
